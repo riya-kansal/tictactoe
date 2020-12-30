@@ -1,0 +1,39 @@
+button{
+    height: 100px;
+    width: 100px;
+}
+#result
+{
+   
+    color: #520808;
+    text-align: center;
+    font-size:x-large;
+    
+}
+#title{
+    font-size: 57px;
+    color: cornflowerblue;
+    text-align: center;
+
+}
+body{
+    background-image: url('tic.jpg');
+
+}
+#result
+{
+    align-items: center;
+    text-align: center;
+    font-size: xx-large;
+    color: lightgrey;
+}
+#restart{
+    align-items: center;
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(121, 13, 13);
+    height: 50px;
+    width:150px;
+    align-self: center;
+    
+}
