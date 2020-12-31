@@ -14,13 +14,14 @@ button{
     font-size: 57px;
     color: cornflowerblue;
     text-align: center;
+    align-self: center;
 
 }
 body{
     background-image: url('tic.jpg');
 
 }
-#result
+#result,#winner
 {
     align-items: center;
     text-align: center;
@@ -36,4 +37,14 @@ body{
     width:150px;
     align-self: center;
     
+}
+#p1,#p2
+{
+    text-align: center;
+    color: black;
+}
+#name1,#name2
+{
+    color: lightslategrey;
+
 }
